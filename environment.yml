@@ -163,5 +163,6 @@ dependencies:
   - zipp=3.8.1=pyhd8ed1ab_0
   - zstd=1.5.2=h6239696_4
   - pip:
+    - magic-timer==1.0.0
     - tokenize-rt==4.2.1
 prefix: /home/sid/miniconda3/envs/ml
